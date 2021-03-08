@@ -8,7 +8,7 @@ description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 
 twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+default_img: "/create-waterfall-story-template/assets/images/seo.jpg"
 social:
   - name: twitter
     url: https://twitter.com/thomasvaeth
