@@ -68,7 +68,7 @@ layout: default
             <a class="related__link" href="{{ post.url | absolute_url }}">
               {% if post.image %}
                 <figure class="related__img">
-                  <img src="{{site.baseurl}}/{{ post.image }}" alt="{{ post.title }}"/>
+                  <img src="{{site.baseurl}}{{ post.image }}" alt="{{ post.title }}"/>
                 </figure>
               {% endif %}
               <div>
